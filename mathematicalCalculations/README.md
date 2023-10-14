@@ -2,12 +2,12 @@
 
 ## Installation
 ```
-$ git clone https://github.com/neliudochka/Q
-$ cd
+$ git clone https://github.com/neliudochka/C_lang_labs.git
+$ cd C_lang_labs/mathematicalCalculations/
 ```
 
 ## Build
-To build the program you need [make utility](https://www.gnu.org/software/make/)
+To build using [make utility](https://www.gnu.org/software/make/)
 ```
 $ make  
 ```
