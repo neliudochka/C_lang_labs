@@ -8,7 +8,7 @@ https://commons.wikimedia.org/wiki/File:ASCII-Table-wide.svg
 ## Installation
 ```
 $ git clone https://github.com/neliudochka/C_lang_labs.git
-$ cd C_lang_labs/
+$ cd C_lang_labs/strings
 ```
 
 ## Build
@@ -18,11 +18,11 @@ $ make
 ```
 Or
 ```
-$ gcc -o harryPotterBookCollection ./src/main.c ./src/bookCollection.c
+$ gcc -o strings ./src/main.c ./src/string.c
 
 ```
 
 ## Run
 ```
-$ ./harryPotterBookCollection 
+$ ./strings 
 ```
