@@ -1,0 +1,7 @@
+Harry Potter and the Philosopher’s Stone_531.88_309_English_0.703_1997
+Harry Potter and the Chamber of Secrets_556.99_352_English_0.816_1998
+Harry Potter and the Prisoner of Azkaban_533.70_435_English_0.93_1999
+Harry Potter and the Goblet of Fire_668.67_752_English_1.134_2000
+Harry Potter and the Order of the Phoenix_610_896_English_1.3_2003
+Harry Potter and the Half-Blood Prince_626_672_English_0.99_2005
+Harry Potter and the Deathly Hallows_627.56_784_English_1.08_2007;
