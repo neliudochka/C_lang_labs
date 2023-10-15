@@ -1,32 +1,21 @@
 # Linked List
 
-Мета роботи - отримати початкові навички роботи з С
+An application that displays information about the Harry Potter book series.  
+Information about books should be contained in a linked list.  
 
-Створити додаток який виводить на екран інформацію про серію книг про Гарі Поттера.
-Інформація о книгах повинна міститися в зв'язаному списку.
+Each element must contain the following information:
 
-Що таке зв'язаний список
-https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm
-https://www.programiz.com/dsa/linked-list
-
-Кожен елемент повинен містити наступну інформацію:
-
-    назва книги;
-    ціна;
-    число сторінок;
-    мова;
-    вага;
-    рік видання.
-
-Звіт виконання - додати:
-1) посилання на додаток в вашому Git репозиторії
-2) скріншот виконнання додатку.
-
+- title of the book;
+- price;
+- number of pages;
+- language;
+- weight;
+- year of publication.
 
 ## Installation
 ```
 $ git clone https://github.com/neliudochka/C_lang_labs.git
-$ cd C_lang_labs/mathematicalCalculations/
+$ cd C_lang_labs/linkedList
 ```
 
 ## Build
@@ -36,11 +25,11 @@ $ make
 ```
 Or
 ```
-$ gcc -o mathCalculations .src/main.c .src/functions.c -lm
+$ gcc -o harryPotterBookCollection ./src/main.c ./src/bookCollection.c
 
 ```
 
 ## Run
 ```
-$ ./mathCalculations 
+$ ./harryPotterBookCollection 
 ```

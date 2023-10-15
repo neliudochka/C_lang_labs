@@ -1,9 +1,9 @@
-programName := mathCalculations
+programName := harryPotterBookCollection
 location := ./src
 dep := bookCollection.c
 
 $(programName): $(location)/main.c $(location)/$(dep)
-	gcc -o mathCalculations $(location)/main.c $(location)/$(dep) -lm
+	gcc -o $(programName) $(location)/main.c $(location)/$(dep)
 
 clean:
 	rm $(programName)
